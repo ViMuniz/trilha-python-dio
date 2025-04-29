@@ -1,3 +1,4 @@
+#Quantas vezes um objeto aparece na lista
 cores = ["vermelho", "azul", "verde", "azul"]
 
 print(cores.count("vermelho"))  # 1

@@ -1,3 +1,4 @@
+# Matriz são listas dentro de uma lista
 matriz = [
     [1, "a", 2],
     ["b", 3, 4],
