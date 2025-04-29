@@ -1,8 +1,5 @@
-frutas = (
-    "laranja",
-    "pera",
-    "uva",
-)
+# A diferença entre tupla e lista é que a tupla é imutavel
+frutas = ("laranja", "pera", "uva",)
 print(frutas)
 
 letras = tuple("python")
