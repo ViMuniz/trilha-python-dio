@@ -5,5 +5,7 @@ contatos = {
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
 }
 
+print(contatos)
 contatos.clear()
+print("-" * 100)
 print(contatos)  # {}

@@ -5,9 +5,11 @@ contatos = {
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
 }
 
+# Não é o melhor método para se aplicar
 for chave in contatos:
-    print(chave, contatos[chave])
-
+    print(chave, contatos[chave]) # A chave retorna os emails que está amarrada com as demais informações
+    
+print(chave)
 print("=" * 100)
 
 for chave, valor in contatos.items():
